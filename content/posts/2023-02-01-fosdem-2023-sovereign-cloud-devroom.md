@@ -1,12 +1,10 @@
 ---
-layout: post
 title: "FOSDEM 2023 - Sovereign Cloud DevRoom"
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2023-03-16T05:35:07.322Z'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+coverImage: '/assets/images/blog/fosdem2023.png'
+date: '2023-03-16'
 author:
-  name: FKR
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Felix Kronlage-Dammers
+  picture: '/assets/images/authors/fkr.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---

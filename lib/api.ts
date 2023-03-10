@@ -53,6 +53,5 @@ export function getAllPosts(fields: string[] = []) {
 
 export function getAllSupporters() {
     const supporters = YAML.parse(supportersFile);
-
     return supporters;
 }

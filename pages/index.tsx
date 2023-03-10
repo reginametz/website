@@ -20,8 +20,7 @@ type Props = {
 };
 
 export default function Index({ allPosts, allSupporters }: Props) {
-    const heroPost = allPosts[0];
-    const morePosts = allPosts.slice(0);
+    const morePosts = allPosts.slice(0,3);
     return (
         <>
             <Layout>
@@ -65,7 +64,7 @@ export default function Index({ allPosts, allSupporters }: Props) {
                 <Container>
                     <TargetAudiences />
                     <Intro
-                        title="Blog"
+                        title="News"
                         text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
                     />
                     {morePosts.length > 0 && <MoreStories posts={morePosts} />}
