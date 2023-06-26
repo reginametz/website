@@ -7,7 +7,7 @@ redirect_from:
 image: "monitoring-engineer.jpg"
 short_description: jobs.cmte.short_description
 location: "Remote / Berlin"
-is_open: true
+published: true
 ---
 
 {% tf jobs/monitoringtest-engineer.md %}
