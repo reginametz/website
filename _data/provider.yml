@@ -16,3 +16,6 @@
 - name: "artcodix"
   image: "logo-artcodix-cloud.svg"
   link: "https://artcodix.com"
+- name: "syself"
+  image: "logo-syself.svg"
+  link: "https://syself.com/"
